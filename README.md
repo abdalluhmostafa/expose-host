@@ -1,5 +1,5 @@
 # Expose-Host
-Expose your localhost to internet in one minute
+Serve your files to localhost or expose it to internet 
 
 Upload your files inside htdocs folder to be served
 <p align="center">
